@@ -44,4 +44,3 @@ int main(int argc, char *argv[])
 	fclose(stream);
 	exit(EXIT_SUCCESS);
 }
-

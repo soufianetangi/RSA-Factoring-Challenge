@@ -18,4 +18,3 @@ do
 		let DIV=$(($DIV+1))
 	done
 done < $1
-
